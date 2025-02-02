@@ -6,11 +6,20 @@ This repository explores various Retrieval-Augmented Generation (RAG) techniques
 
 # Key Features
 
-Comprehensive RAG Techniques – Covers various retrieval-augmented generation methods, including dense, sparse, hybrid, and multimodal retrieval.
-Comparative Analysis – Evaluates accuracy, latency, scalability, robustness, and personalization impact of different RAG techniques.
-Real-World Benchmarks – Implements and tests RAG models on public datasets, providing hands-on code, experiments, and results.
-Explainability & Interpretability – Analyzes how different techniques impact the explainability of model responses.
-Scalability & Optimization – Investigates how vector search, knowledge distillation, and memory-efficient techniques improve retrieval.
+# Comprehensive RAG Techniques – 
+Covers various retrieval-augmented generation methods, including dense, sparse, hybrid, and multimodal retrieval.
+
+# Comparative Analysis – 
+Evaluates accuracy, latency, scalability, robustness, and personalization impact of different RAG techniques.
+
+# Real-World Benchmarks – 
+Implements and tests RAG models on public datasets, providing hands-on code, experiments, and results.
+
+# Explainability & Interpretability – 
+Analyzes how different techniques impact the explainability of model responses.
+
+# Scalability & Optimization – 
+Investigates how vector search, knowledge distillation, and memory-efficient techniques improve retrieval.
 
 # Advanced Techniques
 
